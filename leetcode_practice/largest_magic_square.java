@@ -1,3 +1,4 @@
+package leetcode_practice;
 class Main {
     public int largestMagicSquare(int[][] grid) {
         int m = grid.length;

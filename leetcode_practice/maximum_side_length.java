@@ -1,3 +1,4 @@
+package leetcode_practice;
 class maximum_side_length {
     public int maxSideLength(int[][] mat, int threshold) {
         int m = mat.length;
